@@ -4,7 +4,7 @@ This is my home page! My name is Eugene Chei, and I am a student at Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/eugenechei
+My GitHub page is [Eugene Chei](http://github.com/eugenechei)
 
 ### CPSC 120
 
